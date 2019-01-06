@@ -9,11 +9,11 @@ There are 4 major steps to setting up this workflow.
 
 2) Create an Amazon S3 Bucket
 
-2) Setup Photo Mechanic to upload photos to that S3 bucket
+3) Setup Photo Mechanic to upload photos to that S3 bucket
 
-3) Setup Keywords to read the S3 on Amazon AWS
+4) Setup Keywords to read the S3 on Amazon AWS
 
-4)Use the Keywords App beside Photo Mechanic
+5) Use the Keywords App beside Photo Mechanic
 
 
 
